@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Laxmi Thapa
 
-<!--
-**LaxmiThapa11/LaxmiThapa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an undergraduate IT student at Informatics College Pokhara, passionate about coding, technology, and continuous learning.
 
-Here are some ideas to get you started:
+## About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying **Information Technology** at **Informatics College Pokhara**
+- 🌍 Based in **Pokhara, Nepal**
+- 💻 Passionate about **web development, programming, and problem-solving**
+- 🌱 Currently learning **new technologies and improving my coding skills**
+
+## Skills & Interests:
+
+- Programming: **Python, Java**
+- Web Development: **HTML, CSS, JavaScript**
+- Database: **MySQL**
+- Version Control: **Git & GitHub**
+
+## Let's Connect:
+
+- 📫 Email: [luxmithapa745@gmail.com]
+
+Thanks for visiting my profile! 🚀
+
